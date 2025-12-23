@@ -44,9 +44,6 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td align="center">
         <img src="https://streak-stats.demolab.com?user=elvis-kitonsa&theme=dark" alt="Contribution Streak" />
       </td>
     </tr>
