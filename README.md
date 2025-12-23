@@ -36,8 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&cache_id=1" alt="General Stats" />
 </p>
 
 ---
