@@ -33,8 +33,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" height="165" />
-<img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark" alt="General Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark" />
 </p>
 
 ---
