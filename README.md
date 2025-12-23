@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Elvis Kitonsa</h1>
-  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps with Python, Django, JavaScript, Java & SQL</p>
+  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps · Python, Django, JavaScript, Java & SQL</p>
 
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -33,20 +33,19 @@
 - Profile: https://github.com/elvis-kitonsa
 
     </td>
-
     <td width="45%" valign="top" align="center">
 
 ## 📊 GitHub Stats
 
 **Most Used Languages**
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" width="100%" />
 
 <br><br>
 
 **General Stats**
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" width="100%" />
 
     </td>
   </tr>
