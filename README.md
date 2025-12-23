@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Elvis Kitonsa</h1>
-  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps · Python, Django, JavaScript, Java & SQL</p>
+  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps and systems with Python, Django, JavaScript, Java & SQL</p>
 
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -15,41 +15,28 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-
 ### 💡 About
-- Building full-stack applications with Python and Django.
+- Building full-stack applications with **Python** and **Django**.
 - I enjoy turning database-driven ideas into clean, usable interfaces.
 
 ### 🛠 Tech
-**Frontend:** HTML · CSS · JavaScript · Bootstrap  
-**Backend:** Python (Django) · Java · MariaDB · SQL  
-**Tools:** Git · GitHub · VS Code · XAMPP
+- **Frontend:** HTML · CSS · JavaScript · Bootstrap
+- **Backend:** Python (Django) · Java · MariaDB · SQL
+- **Tools:** Git · GitHub · VS Code · XAMPP
 
 ### 🌐 Contact
-- Email: kitonsaelvis17@gmail.com
-- Profile: https://github.com/elvis-kitonsa
+- **Email:** kitonsaelvis17@gmail.com
+- **Profile:** [github.com/elvis-kitonsa](https://github.com/elvis-kitonsa)
 
-    </td>
-    <td width="45%" valign="top" align="center">
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-**Most Used Languages**
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" width="100%" />
-
-<br><br>
-
-**General Stats**
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" width="100%" />
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" alt="General Stats" />
+</p>
 
 ---
 
