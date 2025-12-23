@@ -39,12 +39,18 @@
 <br /><br />
 ### 📊 General Stats Overview
 
-| GitHub Stats | Contribution Streak |
-|-------------|--------------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark) | ![Streak](https://streak-stats.demolab.com?user=elvis-kitonsa&theme=dark) |
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=elvis-kitonsa&theme=dark" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 </p>
-
 ---
-
 > ✨ *“Small consistent projects beat one big unfinished idea.”*
