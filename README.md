@@ -36,6 +36,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
+<br /><br />
+### 📊 General Stats Overview
+
+| GitHub Stats | Contribution Streak |
+|-------------|--------------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark) | ![Streak](https://streak-stats.demolab.com?user=elvis-kitonsa&theme=dark) |
+
 </p>
 
 ---
