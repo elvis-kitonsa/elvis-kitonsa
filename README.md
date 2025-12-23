@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Elvis Kitonsa</h1>
-  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps · Working with Python, Django, JavaScript, Java & SQL</p>
+  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps with Python, Django, JavaScript, Java & SQL</p>
 
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -24,8 +24,8 @@
 - I enjoy turning database-driven ideas into clean, usable interfaces.
 
 ### 🛠 Tech
-**Frontend:** HTML · CSS · JavaScript · Bootstrap
-**Backend:** Python (Django) · Java · MariaDB · SQL
+**Frontend:** HTML · CSS · JavaScript · Bootstrap  
+**Backend:** Python (Django) · Java · MariaDB · SQL  
 **Tools:** Git · GitHub · VS Code · XAMPP
 
 ### 🌐 Contact
@@ -46,7 +46,7 @@
 
 **General Stats**
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true&hide_border=false" />
 
     </td>
   </tr>
