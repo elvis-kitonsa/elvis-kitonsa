@@ -41,13 +41,17 @@
 ### 📊 General Stats Overview
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" alt="General Stats" />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark&cache_seconds=86400"
+    width="420"
+    alt="GitHub Stats"
+  />
+  <br><br>
+  <img
+    src="https://streak-stats.demolab.com?user=elvis-kitonsa&theme=dark&cache_seconds=86400"
+    width="420"
+    alt="Contribution Streak"
+  />
 </div>
 </p>
 ---
