@@ -39,7 +39,5 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true&cache_buster=true" alt="General Stats" />
 </p>
-
-
 ---
 > ✨ *“Small consistent projects beat one big unfinished idea.”*
