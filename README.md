@@ -36,19 +36,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
-<br /><br />
-  
-### 📊 General Stats Overview
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" alt="General Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true&cache_buster=true" alt="General Stats" />
 </p>
+
+
 ---
 > ✨ *“Small consistent projects beat one big unfinished idea.”*
