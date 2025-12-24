@@ -34,10 +34,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
-<br /><br />
-  
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark&cache_seconds=86400"
+    alt="Most Used Languages"
+  />
+</div>
+
+---
+
 ### 📊 General Stats Overview
 
 <div align="center">
@@ -53,6 +58,10 @@
     alt="Contribution Streak"
   />
 </div>
-</p>
+
+---
+
+> ✨ *“Small consistent projects beat one big unfinished idea.”*
+
 ---
 > ✨ *“Small consistent projects beat one big unfinished idea.”*
