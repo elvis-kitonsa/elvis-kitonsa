@@ -17,8 +17,8 @@
 
 ### 💡 About Me
 - 🔭 **I’m currently working on:** A full-stack E-commerce Tech Store using **Django** and **MariaDB**.
-- 🌱 **I’m currently learning:** Advanced Python backend patterns and RESTful API design.
-- 💬 **Ask me about:** Django, JavaScript, and building responsive UI with **Bootstrap**.
+- 🌱 **I’m currently learning:** Deep diving into **Vanilla JavaScript**, DOM manipulation, and Event handling.
+- 💬 **Ask me about:** JavaScript basics, Django templates, and building responsive UI with **Bootstrap**.
 - ⚡ **Fun fact:** I believe small consistent projects beat one big unfinished idea!
 
 ### 🛠 Tech
@@ -29,39 +29,17 @@
 ### 🌐 Contact
 - **Email:** kitonsaelvis17@gmail.com
 - **Profile:** https://github.com/elvis-kitonsa
-- 
+
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark&cache_seconds=86400"
-    alt="Most Used Languages"
-  />
-</div>
-
----
-
-### 📊 General Stats Overview
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark&cache_seconds=86400"
-    width="420"
-    alt="GitHub Stats"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
   <br><br>
-  <img
-    src="https://streak-stats.demolab.com?user=elvis-kitonsa&theme=dark&cache_seconds=86400"
-    width="420"
-    alt="Contribution Streak"
-  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-> ✨ *“Small consistent projects beat one big unfinished idea.”*
-
----
 > ✨ *“Small consistent projects beat one big unfinished idea.”*
