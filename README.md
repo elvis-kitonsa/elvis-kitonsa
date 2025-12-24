@@ -17,8 +17,8 @@
 
 ### 💡 About Me
 - 🔭 **I’m currently working on:** A full-stack E-commerce Tech Store using **Django** and **MariaDB**.
-- 🌱 **I’m currently learning:** Deep diving into **Vanilla JavaScript**, DOM manipulation, and Event handling.
-- 💬 **Ask me about:** JavaScript basics, Django templates, and building responsive UI with **Bootstrap**.
+- 🌱 **I’m currently learning:** Mastering **Vanilla JavaScript**, specifically DOM manipulation and Event Handling.
+- 💬 **Ask me about:** JavaScript events, Django templates, and responsive UI with **Bootstrap**.
 - ⚡ **Fun fact:** I believe small consistent projects beat one big unfinished idea!
 
 ### 🛠 Tech
@@ -35,9 +35,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=elvis-kitonsa&layout=compact&theme=dark" alt="Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=elvis-kitonsa&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=elvis-kitonsa&show_icons=true&theme=dark" alt="Stats" />
 </p>
 
 ---
