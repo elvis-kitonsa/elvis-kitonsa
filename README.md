@@ -16,7 +16,7 @@
 ---
 
 ### 💡 About Me
-- 🔭 **I’m currently working on:** A full-stack E-commerce Tech Store using **Django** and **MariaDB**.
+- 🔭 **I’m currently working on:** A full-stack Finance Management System using **Python**.
 - 🌱 **I’m currently learning:** Mastering **Vanilla JavaScript**, specifically DOM manipulation and Event Handling.
 - 💬 **Ask me about:** JavaScript events, Django templates, and responsive UI with **Bootstrap**.
 - ⚡ **Fun fact:** I believe small consistent projects beat one big unfinished idea!
