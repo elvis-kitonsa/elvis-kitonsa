@@ -16,8 +16,8 @@
 ---
 
 ### 💡 About Me
-- 🔭 **I’m currently working on:** A full-stack Finance Management System using **Python**.
-- 🌱 **I’m currently learning:** Mastering **Vanilla JavaScript**, specifically DOM manipulation and Event Handling.
+- 🔭 **I’m currently working on:** A Real-time Collaborative Markdown Editor.
+- 🌱 **I’m currently learning:** Mastering **Vanilla JavaScript**, specifically Filtering, Searching & Sorting as well as Form Validation in JS.
 - 💬 **Ask me about:** JavaScript events, Django templates, and responsive UI with **Bootstrap**.
 - ⚡ **Fun fact:** I believe small consistent projects beat one big unfinished idea!
 
