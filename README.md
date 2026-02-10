@@ -16,14 +16,14 @@
 ---
 
 ### 💡 About Me
-- 🔭 **I’m currently working on:** A Real-time Collaborative Markdown Editor.
-- 🌱 **I’m currently learning:** Mastering **Vanilla JavaScript**, specifically Filtering, Searching & Sorting as well as Form Validation in JS.
+- 🔭 **I’m currently working on:** A secure, biometric-locked WhatsApp-style tool for my GitHub ecosystem. Offline-ready and built for the future of the web.
+- 🌱 **I’m currently learning:** Mastering **React with Javascript**, specifically how to work with React to build elite UIs, props, state, compositions etc.
 - 💬 **Ask me about:** JavaScript events, Django templates, and responsive UI with **Bootstrap**.
 - ⚡ **Fun fact:** I believe small consistent projects beat one big unfinished idea!
 
 ### 🛠 Tech
-- **Frontend:** HTML · CSS · JavaScript · Bootstrap
-- **Backend:** Python (Django) · Java · MariaDB · SQL
+- **Frontend:** HTML · CSS · JavaScript · Bootstrap . ReactJS
+- **Backend:** Python (Django & Flask) · Java · MariaDB · SQL
 - **Tools:** Git · GitHub · VS Code · XAMPP
 
 ### 🌐 Contact
