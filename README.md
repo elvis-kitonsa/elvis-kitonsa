@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Elvis Kitonsa</h1>
-  <p><strong>Software Engineer</strong> focused on building clean, user-friendly web apps and systems using Python, Django, JavaScript, Java & SQL</p>
+  <h1>👋 Hi, I'm Kitonsa Elvis</h1>
+  <p><strong>Software Engineering Student</strong> focused on building clean, user-friendly web apps and systems using Python, Django, JavaScript, Java & SQL</p>
 
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
